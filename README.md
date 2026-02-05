@@ -168,7 +168,7 @@ plt.show()
 
 
 
-```
+
 ## Output:
 ### i)Image Translation
 <img width="1200" height="739" alt="image" src="https://github.com/user-attachments/assets/066d6d2f-535b-4489-b6ee-8c97ce7bed04" />
