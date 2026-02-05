@@ -1,4 +1,3 @@
-<img width="1068" height="811" alt="image" src="https://github.com/user-attachments/assets/fd71c017-0100-45f3-b862-9d25c723e375" /># IMAGE-TRANSFORMATIONS
 
 
 ## Aim
@@ -33,6 +32,7 @@ Define a region of interest by specifying the desired range of rows and columns 
 Developed By: Rithika L
 Register Number:212224230231
 i)Image Translation
+```
 ```
 import numpy as np
 import cv2
